@@ -5,8 +5,11 @@
 ## 配置使用
 
 1.`dict.py` 下载到linux机器
+
 2.在`/usr/local/bin/`创建一个名为`dict`软链接指向`dict.py`
+
 3.把`dict.py`改为可执行文件
+
 4.输入`dict 单词1 单词2`就可以用了
 
 ## 目前支持
